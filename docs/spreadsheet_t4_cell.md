@@ -1,4 +1,4 @@
-# Task 4 - Data Analysis
+# Cell and Cell Range
 
 Before we begin, switch to the sheet named, **Analysing the data**.
 
@@ -49,26 +49,52 @@ We will use cell referencing to perform data analysis functions.
 
 - So, to reference the **Gold** category, we will reference it as **C2:C87**.
 
+### Quick Question
 - Can you tell what is the cell range for the Silver, Bronze and Total category?
 
     ![](images/ss/t4_otherCategory.png)
 
+
 <div>
   <form id="quizForm">
-    <input type="radio" id="option1" name="options" value="option1">
-    <label for="option1">
-        Silver: D2:D87<br>
-        Bronze: E2:E87<br>
-        Total: F2:F87    
-    </label><br>
-
-    <input type="radio" id="option2" name="options" value="option2">
-    <label for="option1">
-        Silver: D2:D87<br>
-        Bronze: E2:E87<br>
-        Total: F2:F87    
-    </label><br>
-
+    <table>
+    <tr>
+        <td>    
+            <input type="radio" id="option1" name="options" value="option1">
+        </td>
+        <td>
+            <label for="option1">
+            Silver: E2:E87<br>
+            Bronze: F2:F87<br>
+            Total: C2:C87    
+            </label><br>
+        </td>
+    </tr>
+    <tr>
+        <td>    
+            <input type="radio" id="option2" name="options" value="option2">
+        </td>
+        <td>
+            <label for="option2">
+            Silver: D2:D87<br>
+            Bronze: E2:E87<br>
+            Total: F2:F87    
+            </label><br>
+        </td>
+    </tr>
+        <tr>
+        <td>    
+            <input type="radio" id="option3" name="options" value="option3">
+        </td>
+        <td>
+            <label for="option3">
+            Silver: D2<br>
+            Bronze: E2<br>
+            Total: F2    
+            </label><br>
+        </td>
+    </tr>
+    </table>
     <input type="button" value="Submit" onclick="checkAnswer()">
   </form>
 </div>
@@ -86,3 +112,5 @@ We will use cell referencing to perform data analysis functions.
 
 <br>
 <br>
+
+

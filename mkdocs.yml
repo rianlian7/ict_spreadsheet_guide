@@ -1,14 +1,22 @@
-site_name: "ICT Skills"
+site_name: "Spreadsheet Basic Guide"
 nav:
-  - 'Spreadsheet': 
+  - Intro:
     - spreadsheet_intro.md
+  - Basics: 
     - spreadsheet_t1.md
     - spreadsheet_t2.md
     - spreadsheet_t3.md
-    - spreadsheet_t4.md
+  - Functions:
+    - spreadsheet_t4_function.md
+    - spreadsheet_t4_cell.md
+    - spreadsheet_t4_1.md
+    - spreadsheet_t4_2.md
+    - spreadsheet_t4_3.md
+    - spreadsheet_t4_4.md
+    - spreadsheet_t4_5.md
 
-
-
+  - Extra:
+    - spreadsheet_t5.md
   # - 'Word Processor':
   #   - word_L1.md
   # - 'Presentation':
