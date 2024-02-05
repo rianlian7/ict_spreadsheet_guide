@@ -1,0 +1,26 @@
+site_name: "ICT Skills"
+nav:
+  - 'Spreadsheet': 
+    - spreadsheet_intro.md
+    - spreadsheet_t1.md
+    - spreadsheet_t2.md
+    - spreadsheet_t3.md
+    - spreadsheet_t4.md
+
+
+
+  # - 'Word Processor':
+  #   - word_L1.md
+  # - 'Presentation':
+  #   - presentation_L1.md
+
+
+theme: 
+  name: readthedocs
+  collapse_navigation: True
+
+plugins:
+  - mkdocs-video
+
+markdown_extensions:
+  - attr_list
