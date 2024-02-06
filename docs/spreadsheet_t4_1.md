@@ -1,3 +1,7 @@
+Before we begin, switch to the sheet named, **Analysing the data**.
+
+![](images/ss/t4_switchSheet.png)
+
 # Task 4.1 - SUM Function
 
 Let’s say we want to know the total medals won in each category.
