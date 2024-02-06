@@ -17,10 +17,9 @@ nav:
 
   - Extra:
     - spreadsheet_t5.md
-  # - 'Word Processor':
-  #   - word_L1.md
-  # - 'Presentation':
-  #   - presentation_L1.md
+
+  - Credits:
+    - index.md
 
 
 theme: 
