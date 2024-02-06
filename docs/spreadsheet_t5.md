@@ -46,7 +46,7 @@ Now to total up the cost.
 
 1. In Cell D12, use the SUM function to sum up the cost for each item.
 1. In Cell D13, write the formula =F1*F2
-1. In Cell D14, write the formula =F13-F12
+1. In Cell D14, write the formula =D13-D12
 
     ![alt text](image-25.png)
 
