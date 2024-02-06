@@ -9,11 +9,11 @@ nav:
   - Functions:
     - spreadsheet_t4_function.md
     - spreadsheet_t4_cell.md
-    - spreadsheet_t4_1.md
-    - spreadsheet_t4_2.md
-    - spreadsheet_t4_3.md
-    - spreadsheet_t4_4.md
-    - spreadsheet_t4_5.md
+    - 'Task 4.1 - SUM Function' : spreadsheet_t4_1.md
+    - 'Task 4.2 - AVERAGE Function': spreadsheet_t4_2.md
+    - 'Task 4.3 - MAX and MIN' : spreadsheet_t4_3.md
+    - 'Task 4.4 - COUNTIF' : spreadsheet_t4_4.md
+    - 'Task 4.5 - IF' : spreadsheet_t4_5.md
 
   - Extra:
     - spreadsheet_t5.md
